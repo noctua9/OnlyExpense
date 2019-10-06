@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnlyExpense</string>
+    <string name="decription">Decription</string>
+    <string name="expense_name">Expense name</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="amount">Amount</string>
+    <string name="view_all">View All</string>
+    <string name="delete_all">Delete All</string>
+    <string name="id">ID</string>
+    <string name="delete">delete</string>
+</resources>
